@@ -4,7 +4,7 @@ skin: "blue"
 
 basic_info:
 
-    first_name: Natalia Aurora Alexandra
+    first_name: Natalia
     last_name: Stiopu
     
     motto: Creative, curious, and always learning new things.
@@ -15,7 +15,7 @@ basic_info:
     summary: 
       I am a creative and curious person with a strong passion for continuous learning and personal growth. I have explored different fields throughout my journey, which has helped me develop adaptability, discipline, and a broad perspective. I enjoy music, writing, and expressing ideas in creative ways, always looking for opportunities to learn, evolve, and take on new challenges.
       
-    avatar: https://imgur.com/5LKjZAU
+    avatar: https://i.imgur.com/5LKjZAU.jpg
 
     
     email: stiopuaurora@gmail.com
@@ -24,8 +24,7 @@ basic_info:
     
    
     github: stiopuaurora-cloud
-    
-    twitter:
+  
     stack-overflow: 32667699/natalia-stiopu
 
     languages:
@@ -46,13 +45,13 @@ basic_info:
 
       - item: Cooking
 
-      - item: Learning/Reading
+      - item: Learning
 
 education:
   - degree: Bachillerato
     university: INS Ramon Berenguer IV
     time: completed in 2023
-    details: 
+    details: |
       General education with a broad academic foundation.
 
         - Developed adaptability and learning skills
@@ -60,8 +59,8 @@ education:
 
   - degree: Online Cooking Course
     university: Escuela Superior de Hostelería
-    time: 2024
-    details: 
+    time: completed in 2024
+    details: |
       Introduction to culinary techniques and gastronomy.
 
         - Learned basic cooking methods
@@ -69,8 +68,8 @@ education:
 
   - degree: Cabin Crew Course
     university: Certified Training Program
-    time: 2025
-    details: 
+    time: completed in 2025
+    details: |
       Training focused on communication, safety, and customer care.
 
         - Developed interpersonal and communication skills
@@ -79,7 +78,7 @@ education:
   - degree: Programming Course
     university: Current Studies
     time: Present
-    details: 
+    details: |
       Learning programming fundamentals and modern technologies.
 
         - Developing problem-solving skills
@@ -89,7 +88,7 @@ experience:
   - role: Waitress Assistant & Leisure Monitor
     company: Masia Pla dels Catalans
     time: 2021 - 2023
-    details: 
+    details: |
       Worked in a dynamic environment combining restaurant service and children's activities.
 
         - Assisted in customer service and daily restaurant operations
@@ -98,8 +97,8 @@ experience:
 
   - role: Waitress
     company: Kintsugi Japanese Restaurant (Barcelona)
-    time: 2023
-    details: 
+    time: 6 months in 2023
+    details: |
       Experience in a fast-paced restaurant environment with focus on quality service.
 
         - Provided attentive customer service
@@ -109,7 +108,7 @@ experience:
   - role: Event Catering Staff
     company: Catering Group (Barcelona & surroundings)
     time: 2023 - Present
-    details: 
+    details: |
       Working in different events, adapting to diverse environments and client needs.
 
         - Delivered service in a variety of events and settings
